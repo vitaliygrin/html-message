@@ -1,0 +1,94 @@
+#body{
+    background: #FFF8DC;
+}
+
+#first{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin: 10px;
+    border: 5px #008000;
+    border-radius: 50px;
+    height: 100px;
+    width: 10px;
+}
+
+#second{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin: 10px;
+    background-color: #9400D3;
+    height: 350px;
+    width: 600px;
+    border-radius: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#third{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin: 10px;
+    background-color: #0000FF;
+    height: 350px;
+    width: 600px;
+    border-radius: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#forth{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin: 10px;
+    background-color: #87CEFA;
+    height: 350px;
+    width: 600px;
+    border-radius: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#fifth{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin: 10px;
+    background-color: #FF00FF;
+    height: 550px;
+    width: 600px;
+    border-radius: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#sixth{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin: 10px;
+    background-color: #00BFFF;
+    height: 400px;
+    width: 600px;
+    border-radius: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#href{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin: 10px;
+    background-color:#0000CD;
+    height: 200px;
+    width: 600px;
+    border-radius: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
